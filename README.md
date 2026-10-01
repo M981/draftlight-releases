@@ -8,6 +8,12 @@ https://apps.microsoft.com/detail/9NLCZN3C0JVC
 
 It installs and updates through the Store. There is nothing to download from this page.
 
+![Home: the score for your last game and your recent games](screenshots/home.png)
+
+![Champ select: runes, items and spells for your champion and lane](screenshots/champ-select.png)
+
+![Stats: what the score is made of, and the gold lead per minute](screenshots/stats.png)
+
 Already have the copy from GitHub? Install the Store version; a copy from 1.3.0 on hands over to it by
 itself. With an older copy, close it and delete it first.
 
