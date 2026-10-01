@@ -3,11 +3,13 @@
 A small League of Legends helper for Windows. It sits in the tray, sets your runes, summoner spells and
 item set in champ select, shows the ten players on the loading screen and your CS per minute in game.
 
-Draftlight is moving to the Microsoft Store. New installs will go through the Store; the link comes here
-once it is listed. There is nothing to download from this page.
+Draftlight is in the Microsoft Store as "Draftlight App":
+https://apps.microsoft.com/detail/9NLCZN3C0JVC
 
-Already have Draftlight? Install the Store version once it is listed; the copy you have hands over to it
-by itself.
+It installs and updates through the Store. There is nothing to download from this page.
+
+Already have the copy from GitHub? Install the Store version; a copy from 1.3.0 on hands over to it by
+itself. With an older copy, close it and delete it first.
 
 [Privacy policy](PRIVACY.md)
 
