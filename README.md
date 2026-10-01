@@ -6,8 +6,8 @@ item set in champ select, shows the ten players on the loading screen and your C
 Draftlight is moving to the Microsoft Store. New installs will go through the Store; the link comes here
 once it is listed. There is nothing to download from this page.
 
-Already have Draftlight? It keeps updating itself from the releases here, and hands over to the Store
-version by itself once you install that.
+Already have Draftlight? Install the Store version once it is listed; the copy you have hands over to it
+by itself.
 
 [Privacy policy](PRIVACY.md)
 
