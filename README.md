@@ -10,6 +10,9 @@ The exe isn't signed, so Windows may warn you the first time. Click "More info" 
 Optional: with a personal Riot API key from developer.riotgames.com (paste it under Settings) you also
 see other players' ranked record for the season.
 
+Draftlight was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games.
+Riot Games does not endorse or sponsor this project.
+
 Draftlight isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone
 officially involved in producing or managing Riot Games properties. Riot Games, and all associated
 properties are trademarks or registered trademarks of Riot Games, Inc.
