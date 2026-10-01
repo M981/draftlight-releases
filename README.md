@@ -12,6 +12,10 @@ It installs and updates through the Store. There is nothing to download from thi
 
 ![Champ select: runes, items and spells for your champion and lane](screenshots/champ-select.png)
 
+![Loading screen: rank, season record, recent games and mastery of the ten players](screenshots/players.png)
+
+The players in this picture are made up.
+
 ![Stats: what the score is made of, and the gold lead per minute](screenshots/stats.png)
 
 Already have the copy from GitHub? Install the Store version; a copy from 1.3.0 on hands over to it by
