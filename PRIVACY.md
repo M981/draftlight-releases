@@ -32,7 +32,9 @@ Riot Games (ddragon.leagueoflegends.com) is asked for the current game version.
 
 Draftlight's own server (draftlight-riot.pages.dev, hosted at Cloudflare) gets the Riot IDs of the
 players in your game once the loading screen starts. It asks the Riot Games API for their ranked
-record for the season and passes the answer back. The server keeps an answer in memory for up to ten
+record for the season and passes the answer back. When Draftlight starts during a match while the
+League client is closed, the server also gets the champion each player plays, and asks for their rank
+and their mastery of that champion. The server keeps an answer in memory for up to ten
 minutes and counts requests per IP address for a minute, so its limits can't be used up. It writes
 nothing to a log or a database. Riot's privacy notice covers what Riot does with the request.
 
@@ -50,4 +52,4 @@ Draftlight and deleting the folders above removes everything it kept.
 
 Open an issue at https://github.com/M981/draftlight-releases/issues.
 
-Last updated: 2 October 2026.
+Last updated: 3 October 2026.
